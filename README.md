@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SolluarMING
-- 👀 I’m interested in linguagens de programação
+- 👀 I’m interested in programming languages
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram @ketlens.sousa

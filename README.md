@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SolluarMING
-- 👀 I’m interested in programming languages
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in programming languages Python, JavaScript, HTML/CSS
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram @ketlens.sousa
 
